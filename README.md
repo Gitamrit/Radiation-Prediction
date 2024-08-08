@@ -1,5 +1,6 @@
-**Guide** : `Dr. Srinivasa Rao Gangumalla` from `Department of Earth Sciences` at `IIT Bombay`
-This project aims to predict radiation levels around uranium mines using a supervised learning model. The model helps protect residents in nearby areas by providing accurate radiation risk assessments based on existing survey data.
+**Guide** : `Dr. Srinivasa Rao Gangumalla` from `The Department of Earth Sciences` at `IIT Bombay.`  
+
+This project uses a supervised learning model to predict radiation levels around uranium mines. The model helps protect residents in nearby areas by providing accurate radiation risk assessments based on existing survey data.
 
 ## Table of Contents
 - [Motivation](#motivation)
