@@ -1,3 +1,4 @@
+**Guide** : `Dr. Srinivasa Rao Gangumalla` from `Department of Earth Sciences` at `IIT Bombay`
 This project aims to predict radiation levels around uranium mines using a supervised learning model. The model helps protect residents in nearby areas by providing accurate radiation risk assessments based on existing survey data.
 
 ## Table of Contents
@@ -45,5 +46,5 @@ The model successfully predicted that the gamma dose rate in the tested area is 
 ## How to Run the Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/radiation-level-prediction.git
+   git clone https://github.com/IamMahfooz/Radiation-Prediction.git
 
